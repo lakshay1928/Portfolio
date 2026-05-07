@@ -65,17 +65,10 @@ const services = [
 const projects = [
   {
     title: "Draftly",
-    type: "Web Project",
+    type: "Blogging Website",
     description:
-      "A live frontend project focused on a polished writing and drafting experience with a clean web interface.",
+      "A live blogging website project focused on a polished writing and drafting experience with a clean web interface.",
     live: "https://draftly-frontend-gamma.vercel.app/",
-  },
-  {
-    title: "BlogSpot",
-    type: "Team Project",
-    description:
-      "A blogging website project where I assisted with frontend design, testing, UI improvements, coordination, and basic database concepts.",
-    live: "/Lakshay_Vig_Resume.pdf",
   },
 ];
 
