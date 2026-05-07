@@ -1,0 +1,786 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+/F1e1762bfc-6325-4bfb-9111-95ffd9cd753d <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+>>
+/ProcSet [ /ImageI /ImageB /ImageC /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ 9 0 R 10 0 R ]
+/Parent 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6618
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 46 734 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 18 Tf
+22 TL
+207.476 0 Td
+(Lakshay\040Vig) Tj
+T*
+-207.476 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 46 716 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(\05391\0557011531926\040\174\040lmailofficial18\100gmail\056com\040\174\040Delhi\054\040India\040\174\040github\056com\057lakshay1928) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 706 cm
+Q
+q
+1 0 0 1 46 676 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(PROJECTS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 669 cm
+q
+1 w
+1 J
+0.827451 0.827451 0.827451 RG
+n
+0 0 m
+520 0 l
+S
+Q
+Q
+q
+1 0 0 1 46 651 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(Draftly\040\226\040Blogging\040Platform\040\174\040React\054\040Node\056js\054\040Express\054\040MongoDB) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 633 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 633 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Developed\040a\040full\055stack\040blogging\040platform\040with\040complete\040CRUD\040functionality) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 615 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 615 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Implemented\040secure\040authentication\040using\040JWT\040and\040bcrypt) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 597 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 597 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Built\040a\040rich\040text\040editor\040using\040TipTap\040for\040dynamic\040blog\040creation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 579 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 579 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Designed\040RESTful\040APIs\040and\040integrated\040MongoDB\040using\040Mongoose) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 561 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 561 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Added\040social\040features\040including\040like\057save\040and\040Cloudinary\040image\040uploads) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 543 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 543 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Created\040a\040responsive\040UI\040using\040Tailwind\040CSS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 537 cm
+Q
+q
+1 0 0 1 46 507 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(EDUCATION) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 500 cm
+q
+1 w
+1 J
+0.827451 0.827451 0.827451 RG
+n
+0 0 m
+520 0 l
+S
+Q
+Q
+q
+1 0 0 1 46 482 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(Institute\040of\040Information\040in\040Technology\040and\040Management\0402024\040\226\0402027) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 464 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 464 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Bachelor\040of\040Computer\040Applications\040\050BCA\051\040\226\040Delhi\054\040India) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 446 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 446 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Coursework\072\040Data\040Structures\054\040Algorithms\054\040DBMS\054\040Operating\040Systems\054\040Software\040Engineering\054\040Computer\040Networks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 440 cm
+Q
+q
+1 0 0 1 46 410 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(SKILLS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 403 cm
+q
+1 w
+1 J
+0.827451 0.827451 0.827451 RG
+n
+0 0 m
+520 0 l
+S
+Q
+Q
+q
+1 0 0 1 46 385 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(Technical\040Skills) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 367 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 367 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Languages\072\040JavaScript\040\050ES6\053\051\054\040HTML5\054\040CSS3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 349 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 349 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Frameworks\057Libraries\072\040React\056js\054\040Tailwind\040CSS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 331 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 331 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Tools\072\040Git\054\040GitHub\054\040Vite\054\040VS\040Code) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 313 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 313 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Concepts\072\040Responsive\040Design\054\040REST\040APIs\054\040Component\055Based\040Architecture\054\040DOM\040Manipulation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 307 cm
+Q
+q
+1 0 0 1 46 277 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(CERTIFICATIONS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 270 cm
+q
+1 w
+1 J
+0.827451 0.827451 0.827451 RG
+n
+0 0 m
+520 0 l
+S
+Q
+Q
+q
+1 0 0 1 46 252 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 10 Tf
+12 TL
+(Web\040Development\040Summer\040Training\040Program\040\050MERN\040Stack\051\040\226\040IKIGAI\040Lab\040Pvt\056\040Ltd\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 234 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 234 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Completed\040intensive\040training\040in\040full\055stack\040web\040development\040using\040the\040MERN\040stack) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 216 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 216 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Gained\040hands\055on\040experience\040in\040HTML\054\040CSS\054\040JavaScript\054\040RESTful\040API\040development\054\040and\040database\040design) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 198 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 198 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Developed\040multiple\040end\055to\055end\040web\040applications\040featuring\040authentication\040and\040CRUD\040operations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 180 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 0 0 Tm
+<7f> Tj
+T*
+ET
+Q
+q
+1 0 0 1 64 180 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1 10 Tf
+12 TL
+(Strengthened\040skills\040in\040Git\057GitHub\054\040debugging\054\040collaborative\040development\054\040and\040deployment\040fundamentals) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 46 174 cm
+Q
+Q
+q
+0 0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1e1762bfc-6325-4bfb-9111-95ffd9cd753d 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+35 704 550 24 re
+f*
+0 0 0 rg
+BT
+/F1e1762bfc-6325-4bfb-9111-95ffd9cd753d 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 55 715 Tm
+(\05391\0557011531926\040\174\040lmailofficial18\100gmail\056com\040\174\040Delhi\054\040India\040\174\040) Tj
+T*
+ET
+BT
+1 0 0 1 321.11 715 Tm
+(github\056com\057lakshay1928) Tj
+T*
+ET
+BT
+1 0 0 1 428.94 715 Tm
+(\040\174\040) Tj
+T*
+ET
+BT
+1 0 0 1 437.1 715 Tm
+(Portfolio\040Link) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057lakshay1928)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 321.11 713 428.94 725 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057vs\055lovat\056vercel\056app\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 437.1 713 494.9 725 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000114 00000 n 
+0000000163 00000 n 
+0000000529 00000 n 
+0000007199 00000 n 
+0000007306 00000 n 
+0000007418 00000 n 
+0000007525 00000 n 
+0000007708 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+7894
+%%EOF
